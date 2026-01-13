@@ -1,4 +1,4 @@
-# Javaeats-Lite: System Analysis & Design Document (SAD)
+# Javaeats-Lite: System Analysis Document (SAD)
 
 ![Status](https://img.shields.io/badge/Status-Analysis_Phase-blue)
 ![Type](https://img.shields.io/badge/Type-SAD-orange)
@@ -164,7 +164,9 @@ createNewOrder(input:orderItems);
 
 ###### Functions
 
-- Update user information.
+```java
+updateUser(user);
+```
 
 ##### F07.2-Update Saved Addresses
 
